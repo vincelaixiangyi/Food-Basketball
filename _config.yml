@@ -1,7 +1,7 @@
 # Site settings
-keywords: Modern, Blogging, Fun
-author: Wferr
+keywords: Food,Basketball,Programe Design,Travel
+author: VinceLai
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-title: Test title
-description:  Test description
+title: My title
+description:  For me description
